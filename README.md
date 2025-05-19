@@ -13,8 +13,8 @@ To Run This Application
     - pip install -r requirements.txt
 
   - Migrate The Database
-  - python manage.py makemigrations
-  - python manage.py migrate
+    - python manage.py makemigrations
+    - python manage.py migrate
 
 
   - For Run This Applications
