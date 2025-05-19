@@ -12,6 +12,11 @@ To Run This Application
   -  Install Packages
     - pip install -r requirements.txt
 
+  - Migrate The Database
+  - python manage.py makemigrations
+  - python manage.py migrate
+
+
   - For Run This Applications
     - python manage.py runserver 0.0.0.0:8000
    
