@@ -1,0 +1,11 @@
+.git
+.gitignore
+.env
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+myvenv/
+venv/
+ENV/
+media/
